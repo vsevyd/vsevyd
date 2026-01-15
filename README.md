@@ -53,17 +53,16 @@ This move was a catalyst for professional evolution. I decided to convert my hob
 * **Tech:** Node.js, Docker, JSON-based Data Layer.
 * **Status:** Active Development (Implementing React Frontend).
 
-#### 惣 Product Evolution: Alpha vs. Beta
+#### 🎮 Product Evolution: Alpha vs. Beta
 
 | Alpha Version (2019-2020) | Beta Version (2023-2024) |
 | :--- | :--- |
 | **Focus:** Backend logic & logic validation. | **Focus:** Enhanced UI/UX & Responsive Design. |
 | ![Alpha Screenshot](assets/alpha-version.png) | ![Beta Screenshot](assets/beta-version.png) |
-| :--- | :--- |
 | ![Alpha Preview](assets/alpha-preview.gif) | ![Beta Preview](assets/beta-preview.gif) |
 | *Table-based interface, Focus on Core randomization algorithm.* | *Modern CSS/Bootstrap, User-driven table logic.* |
 
-#### 詔 Telegram Bot Integration
+#### 🤖 Telegram Bot Integration
 
 The bot serves as an omnichannel delivery tool, providing the same procedural generation logic via a mobile-friendly interface.
 
@@ -71,7 +70,7 @@ The bot serves as an omnichannel delivery tool, providing the same procedural ge
 
 *Features: Procedural generation on-the-fly, high availability, and seamless API integration.*
 
-#### 攻 Try it Out
+#### 🕹️ Try it Out
 
 [![Launch Telegram Bot](https://img.shields.io/badge/Launch-Telegram_Bot-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NPC_Generator_bot)
 
