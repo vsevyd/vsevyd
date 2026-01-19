@@ -32,6 +32,7 @@ This move was a catalyst for professional evolution. I decided to convert my hob
 
 **Project Management & Methodologies:**
 `Agile/Scrum` `System Analysis` `Risk Management` `Technical Documentation` `Obsidian (PKM)`
+`GURPS (Modular Systems)` `D&D (Tactical Balance)` `PbtA (Narrative Frameworks)`
 
 **Development & Infrastructure:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -76,7 +77,21 @@ The bot serves as an omnichannel delivery tool, providing the same procedural ge
 
 > **Note:** Use the `/start` command to begin generating culturally diverse role-playing personas.
 
+#### 🔍 Current Status & Triage
+I maintain a transparent backlog of identified UI artifacts and functional regressions. This demonstrates my commitment to **Quality Control** and **Active Delivery**:
+* **Live Backlog:** Active tracking of rendering issues and logic gaps across versions.
+* **Prioritization:** Focusing on the Telegram Bot stability (Current Build) over legacy web-prototypes.
+> [View Detailed Bug Report in Project README](https://github.com/vsevyd/character-generator#current-backlog-triage)
+
 ---
+
+### 🕹️ Game Systems & Design Expertise
+
+* **Modular & Universal Systems:** `GURPS (Architecture)` `FATE (Narrative Design)`
+* **Tactical Simulation:** `Pathfinder 1e / 2e` `D&D (3.5 / 4e / 5e familiarity)`
+* **Narrative Frameworks:** `PbtA` `Forged in the Dark (FitD)` `City of Mist`
+* **Dice Pool & Probability Experts:** `Storyteller System (WoD/CofD)` `Shadowrun` `7th Sea`
+* **Niche & Indie Systems:** `Santa Vaca (John Wick's Systems)` `Era of Aquarius (Local RPG Scene Analysis)`
 
 ### 🌍 Languages & Communication
 
